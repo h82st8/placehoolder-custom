@@ -1,0 +1,15 @@
+    &::-webkit-input-placeholder {
+      opacity: 0.3;
+    }
+    &::-moz-placeholder {
+      opacity: 0.3;
+    }
+    &:-moz-placeholder {
+      opacity: 0.3;
+    }
+    &:-ms-input-placeholder {
+      opacity: 0.3;
+    }
+    &::placeholder {
+      opacity: 0.3;
+    }
